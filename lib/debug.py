@@ -2,5 +2,7 @@
 
 from dog import Dog
 import ipdb
+d = Dog()
+
 
 ipdb.set_trace()
